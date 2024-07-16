@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ComproSnaps</string>
+    <string name="miu_campus">Maharishi International University</string>
+    <string name="success">You are born to win</string>
+    <string name="compro_professionals">Compro Professionals</string>
+    <string name="compro_admission_team">Compro Admission Team</string>
+    <string name="faculty_student">Faculty with Student</string>
+    <string name="sustainable_living_center">Sustainable Living Center</string>
+    <string name="students">Students</string>
+    <string name="graduation_ceremony">Graduation Ceremony</string>
+    <string name="welcome_students">Welcome Students</string>
+    <string name="students_life">Students Life</string>
+    <string name="student_family">Student Family</string>
+    <string name="student_center">Student Center</string>
+    <string name="recreation_center">Recreation Center</string>
+    <string name="campus_walkways_bridge">Campus Walkways Bridge</string>
+    <string name="miu_snow_fall">MIU Snow Fall</string>
+    <string name="graduation_memory">Graduation Memory</string>
+    <string name="my_miu">My MIU</string>
+    <string name="class_room">Class Room</string>
+</resources>
